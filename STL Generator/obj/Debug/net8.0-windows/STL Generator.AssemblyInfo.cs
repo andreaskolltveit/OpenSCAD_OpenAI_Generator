@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STL Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7565a4b99e5bc4e60af98c8f0259deb3fdd61caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("STL Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STL Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
