@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/D1jaTCZgYs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\STL Generator\\STL Generator\\STL Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
